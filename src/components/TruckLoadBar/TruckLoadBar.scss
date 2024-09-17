@@ -1,0 +1,71 @@
+.truck-load-bar-container {
+  text-align: center;
+  display: flex;
+  width: 15rem;
+  align-items: center;
+}
+
+.truck-info {
+  margin: 0 0.5rem;
+  font-size: 0.6rem;
+  text-align: left;
+  .truck-info-title {
+    font-weight: 600;
+    font-size: 0.8rem;
+  }
+}
+
+.truck-load-bar {
+  position: relative;
+  width: 100%;
+  max-width: 8rem;
+  height: 40px;
+  border: 2px solid white;
+  margin: 4px 0;
+  background-color: transparent;
+}
+
+.truck-load-fill {
+  height: 100%;
+  background-color: #a7282c;
+  text-align: center;
+  overflow: hidden;
+  position: relative;
+  transition: width 0.5s ease;
+}
+
+.truck-load-fill.min-load-reached {
+  background-color: #56c281;
+}
+
+.truck-load-text {
+  position: absolute;
+  align-content: center;
+  width: 100%;
+  height: 100%;
+  left: 0;
+  top: 0;
+  line-height: 30px;
+  color: #fff;
+  font-weight: bold;
+}
+
+.truck-min-load-marker {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  width: 1px;
+  border-left: 3px dotted white;
+  transform: translateX(-3px);
+
+  .truck-min-text {
+    position: absolute;
+    top: 65%;
+    left: -2px;
+    transform: rotate(-90deg) translateY(-50%);
+    transform-origin: left center;
+    color: white;
+    font-size: 0.8rem;
+    font-weight: bold;
+  }
+}

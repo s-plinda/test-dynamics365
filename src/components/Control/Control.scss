@@ -1,0 +1,78 @@
+.control {
+  display: flex;
+  align-items: center;
+  margin: 1rem;
+  color: #ffffff;
+
+  .modal-overlay {
+    position: absolute;
+    top: 7rem;
+    width: 50%;
+    height: auto;
+    background-color: rgba(89, 65, 67, 0.9);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 0.5rem;
+  }
+
+  .modal-content {
+    padding: 1rem 2rem;
+    width: 100%;
+
+    .close-button {
+      color: white;
+      font-weight: 900;
+      font-size: 1.3rem;
+      margin-left: 95%;
+      background-color: transparent;
+      border: 0;
+      cursor: pointer;
+    }
+
+    ul {
+      list-style: none;
+      padding: 0;
+    }
+
+    li {
+      margin-bottom: 1rem;
+    }
+
+    button {
+      margin-right: 1rem;
+    }
+  }
+
+  .button-panel {
+    display: flex;
+    flex-direction: column;
+  }
+
+  .truck-item {
+    border-top: 1px solid #ccc;
+
+    .truck-item-title {
+      font-size: 2rem;
+      padding-top: 1rem;
+    }
+
+    .truck-item-content {
+      display: flex;
+      justify-content: space-between;
+    }
+
+    .truck-data {
+      display: flex;
+      flex-direction: row;
+
+      .truck-data-loading {
+        margin-right: 2rem;
+      }
+    }
+  }
+
+  .truck-item.selected {
+    background-color: #e0ffe0;
+  }
+}

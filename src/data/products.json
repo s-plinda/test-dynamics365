@@ -1,0 +1,58 @@
+[
+    {
+        "id": 123,
+        "imagePath": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRRJyuXpDSz3b5CAeCEr2KuEsf8rTABhoMSCgul8H07g46VY4A8sGuSVB9RkP_6JViC1hO5eThDAI0tXOGTtcndctE7LyiTMI2DVMEh_2PrndmZE-j1qxMFxhiaDEuUdCigY9VZr15u2Q&usqp=CAc",
+        "name": "Coca-cola Name1",
+        "price": 150,
+        "unitWeigth": 100
+    },
+    {
+        "id": 125,
+        "imagePath": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRr6bajM25M8w3U_K_w8-8uH-LkuqaXlP_bQGO9lgyZ79RwleqlBl4w3mT-sa04PAQe6QwcdDM4wFLtC0r8co-YmkjWfbQm92RveVlo40tXNj-Q4HV5HHvJFUA25FnIiQ&usqp=CAc",
+        "name": "Coca-cola Name2",
+        "price": 1000,
+        "unitWeigth": 500
+    },
+    {
+        "id": 126,
+        "imagePath": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTjjaBd7tTE32yxrVreEqBv_DLVYdQSJLluyTkbTWAobXwX_VIfkly1qp0_YnWQ2yhtfjTR7Aj9PEBN-l_obncGmjj3xnyDbyaP_Gz0VaCsNhFHxMAY_-9kXyHY2AC-5SFbNaJCRQ&usqp=CAc",
+        "name": "Coca-cola Name3",
+        "price": 15,
+        "unitWeigth": 20
+    },
+    {
+        "id": 127,
+        "imagePath": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSRZIgjtR28Olup3RedLUKAq0z6HMn6-IVw3rTJniONz0wSD_v4THgLnRnEWLew4GYzXYSOE8izyNLnG6Rw6hIAjtPNdCgR7cFpA7OsCpt6&usqp=CAc",
+        "name": "Coca-cola Name4",
+        "price": 3000,
+        "unitWeigth": 1000
+    },
+    {
+        "id": 128,
+        "imagePath": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRSnPQQfWWxw4VlzU5MtMhAHd0Ulk58tSmNvNjdT6rKTxvY4nLtH5HM4xiBf2J-iVsEQ8rZapIJ02Ui5myXbL5n0LRp0CSBPdAubmbRHcopRjpbBy4luV_ZjXMDwjGXPbw5kpBPhA&usqp=CAc",
+        "name": "Coca-cola Name5",
+        "price": 150,
+        "unitWeigth": 100
+    },
+    {
+        "id": 129,
+        "imagePath": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRCW7525XTrOSd3mE1hUQcVLi_K2tWztOCCk7XPloZM-yHUC7g-wq3ROHGO728TsqIW9c855ZZWRXkU6f9nKxB3gMemi-xTnFXs0-iUlJBEA91PopYPSSAnFthSuw&usqp=CAc",
+        "name": "Coca-cola Name6",
+        "price": 1000,
+        "unitWeigth": 500
+    },
+    {
+        "id": 130,
+        "imagePath": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRRu14YAM8_8v9-wj-bWHPkmXp18mFks5GrMNhpir36A3kHIAN_1oWCzvZ04XmWXg6jswF_I4AzXPhi-uH1er_28XIH-mQIiQK90UtkXBkiNZZXWsEPTp2rYtQkjuZYekuLLcVoTxzJEQ&usqp=CAc",
+        "name": "Coca-cola Name7",
+        "price": 15,
+        "unitWeigth": 20
+    },
+    {
+        "id": 137,
+        "imagePath": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSp-lz365HkGATRtnmBr_WEUjKiz4sxDAU9E3DfEj99x3EpDl9DZS5dyeaXu2GaELTPMRgGqodPQi1ox5peLXUoFblVcK8f-BxgIU1FDQSr8uoeGdaOssGwftNCudxodiqrD_1VS6k&usqp=CAc",
+        "name": "Coca-cola Name8",
+        "price": 3000,
+        "unitWeigth": 1000
+    }
+]
